@@ -1,5 +1,5 @@
 ## Hi 👋
-
+🚀 **Senior Full Stack Engineer** with 8+ years of experience building scalable, high-performance web and SaaS platforms across North America.  
 ## 🛠️ **Technical Toolkit**
 
 ### **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF746&background=FF2AB200&repeat=false&random=true&width=435&lines=Languages+%26+Frameworks)](https://git.io/typing-svg)**  
