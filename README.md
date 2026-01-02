@@ -32,26 +32,6 @@ Security-focused workflow featuring:
 - **Pentesting** with Burp Suite  
 - **Secure CI/CD** pipeline design  
 
----
-
-## 🌍 **Connect With Me**  
-
-<div align="">
-  <a href="https://linkedin.com/in/dbaidya811">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="Professional Network"/>
-  </a>
-  <a href="https://twitter.com/dbaidya811">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" title="Tech Thoughts"/>
-  </a>
-  <a href="https://github.com/dbaidya811">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="My Projects"/>
-  </a>
-  <a href="mailto:dbaidya811@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Collaborate"/>
-  </a>
-</div>
-
----
 
 ## 📊 **GitHub Insights**  
 
