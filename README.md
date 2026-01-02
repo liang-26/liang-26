@@ -33,20 +33,7 @@ Security-focused workflow featuring:
 - **Secure CI/CD** pipeline design  
 
 
-## 📊 **GitHub Insights**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbaidya811&show_icons=true&hide_border=true&theme=transparent" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbaidya811&layout=compact&hide_border=true&theme=transparent" width="45%">
-</div>
-
----
-
 ## 📌 **Featured Work**  
-
- <!--🔗 **[Portfolio 1](https://deepbaidya.netlify.app)** - Full project case studies -->
-🔗 **[Portfolio](https://deepbaidya.vercel.app)**  
-☕ **[Support My Work](https://buymeacoffee.com/dbaidya811)**  
 
 > *"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=2CF746&background=FF2AB200&random=true&width=435&lines=First+solve+the+problem%2C+then+write+the+code.)](https://git.io/typing-svg)"*[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=2CF746&background=FF2AB200&random=true&width=435&lines=-+John+Johnson+)](https://git.io/typing-svg)
 
