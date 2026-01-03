@@ -1,4 +1,4 @@
-## Hi 👋, I`m Liang Zhang
+## Hi 👋,
 🚀 **Senior Full Stack Engineer** with 8+ years of experience building scalable, high-performance web and SaaS platforms across North America.  
 ## 🛠️ **Technical Toolkit**
 
